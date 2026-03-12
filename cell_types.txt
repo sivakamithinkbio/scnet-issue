@@ -1,0 +1,180 @@
+plasma cell
+fibroblast
+b cell
+epithelial cell
+t cell
+acinar cell of salivary gland
+mesenchymal stem cell
+neutrophil
+cd8-positive, alpha-beta t cell
+immature natural killer cell
+cd4-positive, alpha-beta t cell
+stromal cell
+erythrocyte
+capillary aerocyte
+endothelial cell of hepatic sinusoid
+luminal epithelial cell of mammary gland
+macrophage
+tendon cell
+conjunctival epithelial cell
+type i nk t cell
+basal cell
+hepatocyte
+monocyte
+fibroblast of breast
+pancreatic ductal cell
+radial glial cell
+classical monocyte
+naive b cell
+kidney epithelial cell
+mucus secreting cell
+type ii pneumocyte
+endothelial cell of vascular tree
+endothelial cell
+intestinal crypt stem cell of large intestine
+cd4-positive helper t cell
+cd4-positive, alpha-beta memory t cell
+nkt cell
+myeloid cell
+cd8-positive, alpha-beta memory t cell
+myofibroblast cell
+pancreatic acinar cell
+pulmonary ionocyte
+pericyte cell
+mature enterocyte
+large intestine goblet cell
+nk cell
+cardiac muscle cell
+plasmacytoid dendritic cell
+paneth cell of epithelium of large intestine
+cd4-positive alpha-beta t cell
+regulatory t cell
+transit amplifying cell of large intestine
+schwann cell
+dn3 thymocyte
+lacrimal gland functional unit cell
+fibroblast of cardiac tissue
+naive thymus-derived cd4-positive, alpha-beta t cell
+cardiac endothelial cell
+smooth muscle cell
+granulocyte
+club cell of prostate epithelium
+cd8-positive alpha-beta t cell
+artery endothelial cell
+serous cell of epithelium of bronchus
+intestinal tuft cell
+pancreatic pp cell
+memory b cell
+basal cell of prostate epithelium
+melanocyte
+bronchial vessel endothelial cell
+vascular associated smooth muscle cell
+lung ciliated cell
+duct epithelial cell
+skeletal muscle satellite stem cell
+dendritic cell
+hillock-club cell of prostate epithelium
+fast muscle cell
+eye photoreceptor cell
+cell of skeletal muscle
+club cell
+nampt neutrophil
+keratinocyte
+capillary endothelial cell
+adipocyte
+basophil
+connective tissue cell
+hillock cell of prostate epithelium
+duodenum glandular cell
+intermediate monocyte
+retinal bipolar neuron
+goblet cell
+cd8-positive, alpha-beta cytokine secreting effector t cell
+bronchial smooth muscle cell
+medullary thymic epithelial cell
+microglial cell
+type i pneumocyte
+enterocyte of epithelium of large intestine
+vein endothelial cell
+dn1 thymic pro-t cell
+slow muscle cell
+pancreatic alpha cell
+innate lymphoid cell
+bladder urothelial cell
+non-classical monocyte
+paneth cell of epithelium of small intestine
+ocular surface cell
+cd24 neutrophil
+mesothelial cell
+cd8b-positive nk t cell
+endothelial cell of lymphatic vessel
+liver dendritic cell
+lung microvascular endothelial cell
+corneal epithelial cell
+platelet
+limbal stromal cell
+hematopoietic stem cell
+erythroid progenitor
+muscle cell
+corneal keratocyte
+vein or capillary endothelial cell
+dn4 thymocyte
+ciliated epithelial cell
+mast cell
+lymphatic endothelial cells
+ionocyte
+immune cell
+ciliary body
+pancreatic stellate cell
+secretory cell
+ciliated cell
+naive thymus-derived cd8-positive, alpha-beta t cell
+intestinal enteroendocrine cell
+intrahepatic cholangiocyte
+mature conventional dendritic cell
+respiratory goblet cell
+langerhans cell
+small intestine goblet cell
+luminal cell of prostate epithelium
+alpha-beta t cell
+intestinal crypt stem cell
+t follicular helper cell
+intestinal crypt stem cell of small intestine
+plasmablast
+transit amplifying cell of small intestine
+alveolar fibroblast
+serous cell of epithelium of trachea
+retinal blood vessel endothelial cell
+mature nk t cell
+adventitial cell
+muller cell
+cd4-positive helper t cells
+retinal pigment epithelial cell
+cd1c-positive myeloid dendritic cell
+leucocyte
+salivary gland cell
+naive regulatory t cell
+erythroid lineage cell
+respiratory mucous cell
+myometrial cell
+gut endothelial cell
+retina horizontal cell
+tracheal goblet cell
+enterocyte of epithelium of small intestine
+cd141-positive myeloid dendritic cell
+myeloid progenitor
+limbal stem cell
+epithelial cell of lacrimal sac
+pancreatic beta cell
+epithelial cell of uterus
+immature enterocyte
+tongue muscle cell
+retinal ganglion cell
+myoepithelial cell
+thymocyte
+cd8-positive, alpha-beta cytotoxic t cell
+endothelial cell of artery
+double-positive, alpha-beta thymocyte
+myeloid dendritic cell
+sperm
+pancreatic delta cell
