@@ -16,7 +16,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 epsilon = 0.0001
 
 
-BASE_DIR = "/workspace/sivakami/scNET"
+BASE_DIR = "/path/to/scNET"
 EMBEDDING_DIR = os.path.join(BASE_DIR, "Embedding")
 
 

@@ -32,9 +32,9 @@ NUM_LAYERS = 3
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 #device = torch.device("cpu")
 warnings.filterwarnings('ignore')
-save_path_emb = "/workspace/sivakami/scNET/Embedding"
-save_path_models = "/workspace/sivakami/scNET/Models"
-save_path_knn = "/workspace/sivakami/scNET/KNNs"
+save_path_emb = "/path/to/scNET/Embedding"
+save_path_models = "/path/to/scNET/Models"
+save_path_knn = "/path/to/scNET/KNNs"
 
 os.makedirs(save_path_emb, exist_ok=True)
 os.makedirs(save_path_models, exist_ok=True)
