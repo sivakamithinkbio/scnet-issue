@@ -652,7 +652,7 @@ def run_scNET(obj,pre_processing_flag = True ,biogrid_flag = False,
       print("Cell type distribution:",flush=True)
       print(obj.obs[group_key].value_counts())
     # Save subsampled dataset
-      save_path = "/workspace/sivakami/scNET/Data/25k_cell.h5ad"
+      save_path = "/path/to/scNET/Data/25k_cell.h5ad"
 
       obj.write(save_path)
 
